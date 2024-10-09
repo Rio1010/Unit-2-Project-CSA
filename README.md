@@ -1,5 +1,3 @@
-# Unit-2-Project-CSA
-Art Shop!
 # Unit 2 - Store Management Project
 
 ## Introduction
